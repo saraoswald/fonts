@@ -2,7 +2,7 @@
 # Bean Burrito
 Soft and friendly font inspired by my dog.
 
-Download: [Bean Burrito](./ZIP/Bean Burrito.zip)
+Download: [Bean Burrito.zip](https://github.com/saraoswald/fonts/blob/master/ZIP/Bean%20Burrito.zip)
 
 #### Bean Burrito Regular
 
