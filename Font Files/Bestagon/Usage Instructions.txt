@@ -1,0 +1,25 @@
+
+
+************************
+***  SS Bestagon  ***
+***      v 2.0       ***
+************************
+
+(c) Sara Linsley, 2020
+
+Usage Notes:
+    - To figure out how install this font, please Google it :^)
+    - Hearts are mapped to their unicode equivalent, and can be accessed in InDesign from the Glyphs Panel. 
+        - Here's a list of where all the special characters are mapped:
+            - Open Heart: ♡
+            - Filled Heart: ♥
+            - Open Star: ☆
+            - Filled Star: ★
+            - Long Wavy Dash: 〰
+            - Stress Mark: 💢
+
+Updates:
+    (Dec 3, 2021)
+    - Fixes the ¿ in the Bold and Bold Italic weights so that they're not backwards. 
+    - Adjusts some accents in the Thin weight to be closer to the character
+    - Removes overlap inside glyphs for all weights, which may show up with certain image processors

@@ -1,14 +1,19 @@
-# [Incoherent](./Incoherent/)
-Designed to look like incoherent text found in manga, this font is just a bunch of vertical lines. 
 
-### Incoherent Regular
+# [Bean Burrito](./Font Files/Bean Burrito/)
+Soft and friendly font inspired by my dog.
 
-Sample:
+#### [Bean Burrito Regular](./Font Files/Bean Burrito/OTF/Bean Burrito.otf)
 
-<img src="./Resources/Samples/Incoherent-Regular.svg" width="400px">
+<img src="./Resources/Samples/Bean Burrito-Regular.svg" width="400px">
 
-### Incoherent Bold
+#### [Bean Burrito Italic](./Font Files/Bean Burrito/OTF/Bean Burrito Italic.otf)
 
-Sample:
+<img src="./Resources/Samples/Bean Burrito-Italic.svg" width="400px">
 
-<img src="./Resources/Samples/Incoherent-Bold.svg" width="400px">
+#### [Bean Burrito Bold](./Font Files/Bean Burrito/OTF/Bean Burrito Bold.otf)
+
+<img src="./Resources/Samples/Bean Burrito-Bold.svg" width="400px">
+
+#### [Bean Burrito Bold Italic](./Font Files/Bean Burrito/OTF/Bean Burrito Bold Italic.otf)
+
+<img src="./Resources/Samples/Bean Burrito-Bold Italic.svg" width="400px">

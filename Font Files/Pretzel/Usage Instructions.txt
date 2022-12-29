@@ -1,0 +1,25 @@
+
+
+************************
+***    SS Pretzel    ***
+***      v 1.2       ***
+************************
+
+(c) Sara Linsley, 2021
+
+Usage Notes:
+    - To figure out how install this font, please Google it :^)
+    - Hearts are mapped to their unicode equivalent, and can be accessed in InDesign and Illustrator from the Glyphs Panel. 
+     - Contextual Alternates: 
+	- Crossbar-I 
+	- < + 3 = ♥
+	- . + . + . = …
+	- ~ + ~ = 〜
+	- ~ + ~ + ~ = 〰
+     - Here's a list of where all the special characters are mapped:
+            - Open Heart: ♡
+            - Filled Heart: ♥
+            - Open Star: ☆
+            - Filled Star: ★
+            - Long Wavy Dash: 〜
+            - Longer Wavy Dash: 〰

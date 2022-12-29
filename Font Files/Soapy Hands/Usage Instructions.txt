@@ -1,0 +1,28 @@
+
+
+************************
+***  SS Soapy Hands  ***
+***      v 1.2       ***
+************************
+
+(c) Sara Linsley, 2020
+
+Usage Notes:
+    - To figure out how install this font, please Google it :')
+    - The crossbar "I" character is mapped to the pipe symbol -> |
+    - Hearts are mapped to their unicode equivalent, and can be accessed in InDesign from the Glyphs Panel. 
+        - Here's a list of where all the special characters are mapped:
+            - Open Heart: ♡
+            - Filled Heart: ♥
+            - Open Star: ☆
+            - Filled Star: ★
+            - Long Wavy Dash: 〰
+            - Sweat Drop: ✦
+            - Stress Mark: ✧
+            - Large Japanese bullet mark: ※
+
+Changelog:
+    - Dec 3 2020 -
+	    - adds support for Polish characters (ą,ć,ę,ł,ń,ś,ź,ż,‚,„)
+    - Dec 5 2020 -
+	    - adds italic sets
