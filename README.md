@@ -6,16 +6,16 @@ Download: [Bean Burrito.zip](https://github.com/saraoswald/fonts/blob/master/ZIP
 
 #### Bean Burrito Regular
 
-<img src="./Resources/Samples/Bean Burrito-Regular.svg" width="400px">
+<img src="./Resources/Samples/Bean Burrito-Regular.svg">
 
 #### Bean Burrito Italic
 
-<img src="./Resources/Samples/Bean Burrito-Italic.svg" width="400px">
+<img src="./Resources/Samples/Bean Burrito-Italic.svg">
 
 #### Bean Burrito Bold
 
-<img src="./Resources/Samples/Bean Burrito-Bold.svg" width="400px">
+<img src="./Resources/Samples/Bean Burrito-Bold.svg">
 
 #### Bean Burrito Bold Italic
 
-<img src="./Resources/Samples/Bean Burrito-Bold Italic.svg" width="400px">
+<img src="./Resources/Samples/Bean Burrito-Bold Italic.svg">
