@@ -8,7 +8,7 @@ If you'd like to support me, feel free to buy me a slice of pizza on [Ko-fi  @sa
 # Fonts 
 ## Bean Burrito
 
-<img src="./Resources/Promo Pics/Bean Burrito Promo.png" width=400>
+<img src="./Resources/Promo Pics/Bean Burrito Promo.png" width=600>
 
 Soft and friendly font inspired by my dog.
 
@@ -35,7 +35,7 @@ Soft and friendly font inspired by my dog.
 
 ## Bestagon
 
-<img src="./Resources/Promo Pics/Bestagon Promo.png" width=400>
+<img src="./Resources/Promo Pics/Bestagon Promo.png" width=600>
 
 A geometric font with only sharp edges.
 
@@ -71,7 +71,7 @@ A geometric font with only sharp edges.
 
 ## Boba Date
 
-<img src="./Resources/Promo Pics/Boba Date Promo.png" width=400>
+<img src="./Resources/Promo Pics/Boba Date Promo.png" width=600>
 
 A cutesy font inspired by shojo manga.
 
@@ -98,7 +98,7 @@ A cutesy font inspired by shojo manga.
 
 ## Cryptid
 
-<img src="./Resources/Promo Pics/Cryptid Promo.png" width=400>
+<img src="./Resources/Promo Pics/Cryptid Promo.png" width=600>
 
 A sketchy font inspired by a supernatural comic. 
 
@@ -117,7 +117,7 @@ A sketchy font inspired by a supernatural comic.
 
 ## Pretzel
 
-<img src="./Resources/Promo Pics/Pretzel Promo.png" width=400>
+<img src="./Resources/Promo Pics/Pretzel Promo.png" width=600>
 
 A mixed-case font with a whimsical feel. 
 
@@ -144,7 +144,7 @@ A mixed-case font with a whimsical feel.
 
 ## Rosehip
 
-<img src="./Resources/Promo Pics/Rosehip Promo.png" width=400>
+<img src="./Resources/Promo Pics/Rosehip Promo.png" width=600>
 
 A condensed font inspired by Steve Dutro's lettering in the Revolutionary Girl Utena manga. 
 
@@ -172,7 +172,7 @@ A condensed font inspired by Steve Dutro's lettering in the Revolutionary Girl U
 
 ## Soapy Hands
 
-<img src="./Resources/Promo Pics/Soapy Hands Promo.png" width=400>
+<img src="./Resources/Promo Pics/Soapy Hands Promo.png" width=600>
 
 The first full font I ever designed!
 
@@ -208,7 +208,7 @@ The first full font I ever designed!
 
 ## Spicy Noodles
 
-<img src="./Resources/Promo Pics/Spicy Noodles Promo.png" width=400>
+<img src="./Resources/Promo Pics/Spicy Noodles Promo.png" width=600>
 
 A spiky font with lots of character.
 
